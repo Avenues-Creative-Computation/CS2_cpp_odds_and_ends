@@ -13,7 +13,7 @@ int main() {
   //note: if the file already exists it will be overwritten!
   ofstream studentInfoFile(file);
 
-  // Write to the file - note this text will overwrite previous contents
+ // Write to the file - note this text will overwrite previous contents
   studentInfoFile << "Minnie,Mouse,2010,2022\n";
 
   // close the file after you write to it

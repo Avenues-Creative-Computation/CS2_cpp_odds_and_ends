@@ -1,0 +1,3 @@
+Minnie,Mouse,2010,2022
+Donald,Duck,2017,2023
+Scrooge,McDuck,2020,2025
